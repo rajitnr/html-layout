@@ -1,0 +1,74 @@
+.body {
+    margin : 0;
+    padding: 20px;
+}
+.top-thing {
+    border:3px solid black;
+    height: 200px;
+    padding: 10px;
+    /* margin: 5px; */
+}
+.little-purp {
+    margin-top: 30px;
+    height: 170px;
+    width: 50px;
+    background-color: purple;
+    float: left;
+}
+.big-rectangle{
+    background-color: green;
+    height:100%; 
+    width:300px;
+    margin-left: 100px;
+    float:left;
+}
+.circle {
+    height:100%;
+    background-color: skyblue;
+    width : 200px;
+    float : left;
+    margin-left : 50px;
+    border-radius: 50%;
+}
+.center-box {
+    border: 3px dotted black;
+    height: 200px;
+    padding: 10px;
+    margin-top: 10px; 
+}
+.yellow-box {
+    background-color: yellow;
+    height: 80%;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 15px;
+    box-shadow: 5px 5px 5px 5px darkslategray;
+}
+.hello-box {
+    background-color: white;
+    /* background: darkblue; */
+    height: 200px;
+    margin-top: 10px;
+    width: 50%;
+    box-shadow: 2px 2px 2px 2px darkslategray;
+    /* margin 0 auto; */
+    color: blue;
+    text-align: center ;
+    font-size: 24px;
+    font-weight: 200;
+    margin-left: 25%;
+
+}
+.hello-text {
+    text-align: center ;
+    font-size: 24px;
+    font-weight: 200;
+    vertical-align: middle;
+    /* margin-top: 20px; */
+    /* line-height: 90px; */
+    margin : 0 auto;
+    /* position: absolute; */
+    justify-content: center;
+    align-items: center;
+
+}

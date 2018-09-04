@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  /* height: 100vh;
+    width: 100vw; */
+}
+header {
+  height: 100px;
+  background-color: #95e8ae;
+}
+
+.main-container {
+  height: calc(100vh - 100px);
+  background-color: #23858c;
+}
+
+.content {
+  background-color: turquoise;
+  height: 90%;
+  width: 70%;
+  margin: 0 auto;
+}
+
+footer {
+  height: 10%;
+  /* width: 70%; */
+  /* background-color: #D1B748; */
+}
